@@ -1,6 +1,4 @@
-Sure, here's a sample GitHub README for your project:
 
----
 
 # DemandWise: Intelligent Demand Forecasting
 
